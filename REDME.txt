@@ -2,3 +2,4 @@
 Curso de GIT 
 
 Fiz uma nova alteração
+alteração feita no master
