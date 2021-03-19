@@ -1,4 +1,4 @@
-  TESTE:
+  TESTE: (alterado e atualizado)
 Curso de GIT. 
 
 Fiz uma nova alteração
